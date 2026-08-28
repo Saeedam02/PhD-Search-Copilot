@@ -1,0 +1,27 @@
+id: manual-example
+title: ""
+university: ""
+country: ""
+city: ""
+url: ""
+source_type: official_university
+position_type: unknown
+supervisor: ""
+lab: ""
+funding_status: unknown
+stipend:
+  amount: null
+  currency: ""
+  period: unknown
+tuition_waiver: null
+funding_years: null
+deadline: null
+start_date: null
+topics: []
+methods: []
+requirements: []
+mandatory_gre: null
+application_fee: null
+english_only: null
+verified: false
+evidence: []
