@@ -1,0 +1,38 @@
+# This is an intentionally fictional example. Real candidate data belongs in
+# workspace/config/candidate.yaml, which is ignored by Git.
+name: Example Candidate
+headline: "MSc researcher in autonomous systems and control"
+contact:
+  email: ""
+  website: ""
+  github: ""
+  linkedin: ""
+education:
+  - degree: MSc
+    field: Electrical Engineering
+    institution: Example University
+    country: Example Country
+    start_year: 2024
+    end_year: 2026
+    thesis_title: "Safety-critical control for autonomous systems"
+    grade: ""
+research_interests:
+  - autonomous systems
+  - control systems
+  - robotics
+methods:
+  - model predictive control
+  - control barrier functions
+  - state estimation
+skills:
+  programming: [Python, MATLAB]
+  simulation: [Simulink]
+  control: [PID, LQR, MPC]
+  machine_learning: []
+publications: []
+projects: []
+languages:
+  - language: English
+    evidence: "Example only"
+source_files: []
+supported_claims: []
