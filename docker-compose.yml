@@ -1,0 +1,9 @@
+services:
+  phd-agent:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./workspace:/app/workspace
+    restart: unless-stopped
+    command: ["phd-agent", "daemon"]

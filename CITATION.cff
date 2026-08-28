@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software in a publication or project, please cite it as below."
+title: "PhD Search Copilot — Autonomous AI Agent"
+type: software
+authors:
+  - family-names: "Saeedam02"
+repository-code: "https://github.com/Saeedam02/phd-search-copilot"
+license: MIT
+version: 2.0.0
+date-released: 2026-08-28
+keywords:
+  - PhD search
+  - AI agent
+  - academic applications
+  - OpenAI Agents SDK
+  - research matching
