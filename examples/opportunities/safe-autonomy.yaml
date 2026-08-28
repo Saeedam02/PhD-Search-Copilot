@@ -1,0 +1,36 @@
+id: example-safe-autonomy
+title: "PhD in Safe Autonomous Systems"
+university: "Example Technical University"
+country: "Netherlands"
+city: "Delft"
+url: "https://example.edu/phd-safe-autonomy"
+source_type: official_university
+position_type: salaried_phd
+supervisor: "Prof. Example"
+lab: "Autonomous Systems Lab"
+funding_status: fully_funded
+stipend:
+  amount: 3200
+  currency: EUR
+  period: month
+tuition_waiver: true
+funding_years: 4.0
+deadline: 2027-02-15
+topics:
+  - autonomous systems
+  - safety-critical control
+  - robotics
+methods:
+  - model predictive control
+  - control barrier functions
+requirements:
+  - MSc in control, robotics, electrical engineering, or related field
+mandatory_gre: false
+application_fee: 0
+verified: true
+evidence:
+  - claim: "This is a fictional example used only for tests/demo."
+    source_url: "https://example.edu/phd-safe-autonomy"
+    source_title: "Fictional example"
+    authority: example
+    verified: true
