@@ -1,0 +1,65 @@
+funding:
+  fully_funded_only: true
+  tuition_waiver_required: true
+  stipend_required: true
+  minimum_stipend:
+    amount: null
+    currency: EUR
+    period: month
+  minimum_funding_years: null
+
+locations:
+  allowed_countries: []
+  preferred_countries:
+    - Netherlands
+    - Germany
+    - Switzerland
+    - Sweden
+    - Denmark
+    - Norway
+    - Finland
+    - Canada
+  excluded_countries: []
+  preferred_cities: []
+  excluded_cities: []
+  remote_or_hybrid_acceptable: true
+
+research:
+  required_topics: []
+  preferred_topics:
+    - autonomous systems
+    - robotics
+    - control systems
+  excluded_topics: []
+  preferred_methods: []
+  excluded_methods: []
+
+position:
+  allowed_types:
+    - salaried_phd
+    - fully_funded_studentship
+    - scholarship
+  named_supervisor_required: false
+
+application:
+  avoid_mandatory_gre: true
+  maximum_application_fee: 0
+  english_only_acceptable: true
+  custom_deal_breakers: []
+
+deadlines:
+  earliest_deadline: null
+  latest_deadline: null
+  minimum_days_remaining: 14
+
+start_date:
+  earliest: null
+  latest: null
+
+automation:
+  discovery_interval_hours: 24
+  maximum_new_positions_per_cycle: 20
+  auto_research_priority_threshold: 8.0
+  auto_prepare_application_threshold: 8.7
+  auto_prepare_applications: true
+  require_verified_funding_before_preparation: true
