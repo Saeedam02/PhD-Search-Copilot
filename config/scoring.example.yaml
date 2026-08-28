@@ -1,0 +1,16 @@
+# Weights can be changed. The final score is a prioritization score, not an
+# admission probability.
+weights:
+  research_fit: 0.28
+  supervisor_fit: 0.18
+  methods_fit: 0.12
+  skills_fit: 0.12
+  funding_quality: 0.10
+  location_fit: 0.06
+  deadline_practicality: 0.05
+  competitiveness: 0.05
+  evidence_quality: 0.04
+
+priority_thresholds:
+  high: 8.0
+  medium: 6.5
